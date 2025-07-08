@@ -4,7 +4,7 @@
 
 👤 **Autor**: MydeG
 
-📂 **Categoria**: HUD
+📂 **Categoria**: Script
 
 🔧 **Dependências**: Nenhuma
 
